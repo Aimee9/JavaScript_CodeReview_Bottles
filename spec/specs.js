@@ -10,8 +10,14 @@ describe('completeSentence', function() {
   });
 });
 
-describe('lessNumber', function() {
-  it("will decrease the user number by one down to zero", function() {
-    expect(lessNumber(5)).to.eql("5 4 3 2 1 ");
+// describe('lessNumber', function() {
+//   it("will decrease the user number by one down to zero with sentences", function() {
+//     expect(lessNumber(6)).to.eql("Take one down and pass it around, 1 bottles of beer on the wall.");
+//   });
+// });
+
+describe('bottleCount', function() {
+  it("will decrease the user number by one down to zero with sentences", function() {
+    expect(bottleCount(3)).to.eql("Take one down and pass it around, 1 bottles of beer on the wall.");
   });
 });
