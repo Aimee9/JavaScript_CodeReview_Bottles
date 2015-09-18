@@ -2,8 +2,8 @@ var bottleAmount = function(number) {
   return number;
 };
 
-//
-//
+
+
 // $(document).ready(function() {
 //   $("form#factorial").submit(function(event) {
 //     var number= parseInt($("input#number").val());
