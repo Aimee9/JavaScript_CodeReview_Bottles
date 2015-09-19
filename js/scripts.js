@@ -1,21 +1,3 @@
-var bottleAmount = function(number) {
-  return number;
-};
-
-var completeSentence = function(number) {
-  var whole = number + " bottles of beer on the wall.";
-  return whole;
-};
-
-// var lessNumber = function(number) {
-//   var printNumber = "";
-//   debugger;
-//   for(var i = number; i > 1; i--) {
-//     printNumber = "Take one down and pass it around, " + number + " bottles of beer on the wall.";
-//     number--;
-//  } return printNumber;
-//  };
-
 var bottleCount = function(number) {
   var song = "";
   for(var i = number; i >= 0; i--){
