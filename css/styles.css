@@ -1,3 +1,14 @@
 #result {
   display: none;
 }
+
+body {
+  background-color: lightgrey;
+}
+h3 {
+  color: #ff69b4;
+  text-indent: 5%;
+}
+p {
+  color: #1c86ee;
+}
