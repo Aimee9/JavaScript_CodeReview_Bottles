@@ -1,11 +1,12 @@
-# <Name>
+# Bottle song
 
-##### <Brief Description>, <Date>
+##### Sing the classic bottle song, Sept, 2015
 
-#### <Authors>
+#### Aimee Reiss
 
 ## Description
 
+Remember "99 Bottle of Beer on the Wall"?  This app will take a number and sing the song starting with that number down to zero.  Then it's time to go to the store and buy more bottles of beer!
 
 
 ## Setup
@@ -23,7 +24,7 @@ No special setup required
 
 
 
-Copyright (c) 2015 <Authors>
+Copyright (c) 2015 Aimee Reiss
 
 This software is licensed under the MIT license.
 
